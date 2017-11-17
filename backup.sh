@@ -7,7 +7,7 @@ SESSION_NAME='survival'
 WORLD_DIR='world'
 
 # Backup directory
-BACKUP_DIR='~/backups/survival'
+BACKUP_DIR="$HOME/backups/survival"
 
 # Main filename for backup archives
 BACKUP_FILENAME='world'
