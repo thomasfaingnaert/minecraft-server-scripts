@@ -4,7 +4,7 @@
 SESSION_NAME='survival'
 
 # Directory of world files
-WORLD_DIR='world'
+WORLD_DIR="$HOME/servers/survival/world"
 
 # Backup directory
 BACKUP_DIR="$HOME/backups/survival"
